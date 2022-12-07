@@ -1,7 +1,7 @@
 # Created by https://www.toptal.com/developers/gitignore/api/python,venv,jupyternotebooks,windows,macos,linux
 # Edit at https://www.toptal.com/developers/gitignore?templates=python,venv,jupyternotebooks,windows,macos,linux
 
-data/graduates2006_2017.csv
+data/graduates_UBV_2006_2017.csv
 
 ### JupyterNotebooks ###
 # gitignore template for Jupyter Notebooks
